@@ -25,9 +25,12 @@ Run the following command:
 
 ## Results with the network trained for 10 epochs
 
-To test the network run the following command:
+Download the weights [here](https://drive.google.com/file/d/1K3-7pavCZWxGNvUPTnLAjY76JKLnzLlN/view?usp=sharing
+):
 
-- python test.py --p path_to_test_image
+And run the following command:
+
+- python test.py --p path/to/test/image --w path/to/weights
 
 
 Example of result:
