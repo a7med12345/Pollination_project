@@ -11,7 +11,7 @@ Our dataset is made of RGB image and the corresponding binary mask; we automatic
 from the binary mask to be able to use mask-RCNN.
 
 
-![alt text](short_10th/masks_human/short-2019-05-15-15-41-03_10.png)
+![alt text](short-2019-05-15-15-41-03_50.png)
 
 ## Training the network
 
