@@ -1,9 +1,9 @@
-# Pollination project: Segmentation using MASK-RCNN
+# Pollination project: Segmentation using [Mask-RCNN](https://arxiv.org/pdf/1703.06870.pdf)
 
 ## Requirements:
 
 - Python >= 3.5
-- Pytorch >= 1.1
+- [Pytorch](https://github.com/pytorch/pytorch) >= 1.1
 
 ## Dataset Type:
 
